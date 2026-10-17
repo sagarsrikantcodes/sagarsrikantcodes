@@ -22,6 +22,9 @@ I build backend and full-stack applications with a focus on scalable APIs, clean
 ### Expense Tracker (YNAB-Inspired)
 A lightweight, multi-user expense tracker inspired by YNAB (You Need A Budget), built to manage budgets, categories, and transactions efficiently. This project is designed for educational purposes and focuses on core budgeting features within a limited scope.
 
+### Canada Eats - Food Delivery Platform Demo 
+Canada Eats is a fullstack food delivery platform running on modern MERN stack. The key motivation for building this application was to upgrade and refactor a legacy full-stack food delivery application to React 19, resolving complex peer dependency conflicts and migrating state management to modern react paradigms. The application's architecture type for the first version is **Modular, Monolith**. 
+
 ## Background
 My foundation in automotive systems engineering and MBSE helps me approach software with structured thinking, focusing on system interactions, validation, and reliability.
 
